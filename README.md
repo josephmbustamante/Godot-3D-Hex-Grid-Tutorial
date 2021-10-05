@@ -1,7 +1,7 @@
 # Godot 3D Hex Grid Tutorial
 This repository contains the source code for the Godot 3D Hex Grid Tutorial.
 
-[You can follow along with the series on YouTube.](https://www.youtube.com/watch?v=gXkkNSfxLRI&list=PLpwc3ughKbZexDyPexHN2MXLliKAovkpl&index=2&t=2s)
+[You can find the video to follow along on YouTube.](https://youtu.be/3Lt2TfP8WEw)
 
 If there is a bug or issue with the code, feel free to open an issue here or reach out on the Discord server (Discord is preferable since I check it more, but I'll eventually see it here).
 
