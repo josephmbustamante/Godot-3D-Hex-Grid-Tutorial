@@ -11,7 +11,7 @@ const TILE_MATERIALS = [
 const TILE_SIZE := 1.0
 const HEX_TILE = preload("res://HexTile.tscn")
 
-var grid_size := 10
+@export var grid_size := 10
 
 
 func _ready() -> void:
